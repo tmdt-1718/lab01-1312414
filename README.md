@@ -3,7 +3,7 @@
 **Nipu** là một bài tập môn TMDT. Ứng dụng cho phép người dùng gửi tin nhắn (email) cho người dùng khác.
 
 Thành viên:
-* [ ] **1312414** Đỗ Đình Ninh (1312414)
+* [x] **1312414** Đỗ Đình Ninh (1312414)
 
 URL: **URL hosting của bài tập**
 
