@@ -1,4 +1,4 @@
-# BT-TMDT-1 - *Nipu*
+﻿# BT-TMDT-1 - *Nipu*
 
 **Nipu** là một bài tập môn TMDT. Ứng dụng cho phép người dùng gửi tin nhắn (email) cho người dùng khác.
 
@@ -15,19 +15,19 @@ Yêu cầu **GIT**:
 * [ ] Sử dụng GIT theo [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow).
 
 Yêu cầu **bắt buộc**
-* [ ] Thiết kế trang web theo responsive với bootstrap với header (navigation bar, logo), left menu, footer và content. (**MSSV**)
-* [ ] Navigation bar sẽ ẩn đi với kích thước màn hình nhỏ hơn 992px và có nút nhấn để hiển thị navigation bar. (**MSSV**)
-* [ ] Left menu sẽ ẩn đi khi kích thước màn hình nhỏ hơn 768px và có nút nhấn để hiển thị lại left menu. (**MSSV**)
-* [ ] Trang web được thiết kế sẽ bao gồm các trang: home, albums, about, blog. (**MSSV**)
-* [ ] Khi nhấn vào trang albums sẽ thấy danh sách các album đã được lưu trữ trong hệ thống. Mỗi album bao gồm: ảnh cover, tên người tạo, tổng số view của các tấm ảnh trong album. (**MSSV**)
-* [ ] Khi nhấn vào từng album sẽ sẽ chuyển sang danh sách các tấm ảnh trong album. Mỗi tấm ảnh hiển thị các thông tin: người đăng, số lượng view và tấm ảnh dưới dạng thumbnail. (**MSSV**)
-* [ ] Vào trang about sẽ thấy thông tin nhóm: tên nhóm, danh sách thành viên (mã sinh viên, họ tên, ảnh đại diện) và bản đồ google map hiển thị địa chỉ liên lạc của nhóm. (**MSSV**)
-* [ ] Vào trang blog sẽ thấy danh sách các bài viết, mỗi bài viết bao gồm: nội dung rút gọn, ảnh đại diện, người đăng và số view. (**MSSV**)
-* [ ] Nhấn vào mỗi bài viết sẽ thấy chi tiết bài viết cùng đầy đủ nội dung của bài viết. (**MSSV**)
-* [ ] Cho phép người dùng biết họ đang ở trang nào (sử dụng breadcrumb, highlight navigation bar,...). (**MSSV**)
-* [ ] Cho phép người dùng đăng nhập, đăng xuất, đăng ký thông tin tài khoản. (**MSSV**)
-* [ ] Cho phép người dùng đã đăng nhập đăng thêm bài viết mới. (**MSSV**)
-* [ ] Sử dụng bcrypt hoặc devise để quản lý thông tin người dùng và băm mật khẩu. (**MSSV**)
+* [ ] Thiết kế trang web theo responsive với bootstrap với header (navigation bar, logo), left menu, footer và content. (**1312414**)
+* [ ] Navigation bar sẽ ẩn đi với kích thước màn hình nhỏ hơn 992px và có nút nhấn để hiển thị navigation bar. (**1312414**)
+* [ ] Left menu sẽ ẩn đi khi kích thước màn hình nhỏ hơn 768px và có nút nhấn để hiển thị lại left menu. (**1312414**)
+* [ ] Trang web được thiết kế sẽ bao gồm các trang: home, albums, about, blog. (**1312414**)
+* [ ] Khi nhấn vào trang albums sẽ thấy danh sách các album đã được lưu trữ trong hệ thống. Mỗi album bao gồm: ảnh cover, tên người tạo, tổng số view của các tấm ảnh trong album. (**1312414**)
+* [ ] Khi nhấn vào từng album sẽ sẽ chuyển sang danh sách các tấm ảnh trong album. Mỗi tấm ảnh hiển thị các thông tin: người đăng, số lượng view và tấm ảnh dưới dạng thumbnail. (**1312414**)
+* [ ] Vào trang about sẽ thấy thông tin nhóm: tên nhóm, danh sách thành viên (mã sinh viên, họ tên, ảnh đại diện) và bản đồ google map hiển thị địa chỉ liên lạc của nhóm. (**1312414**)
+* [ ] Vào trang blog sẽ thấy danh sách các bài viết, mỗi bài viết bao gồm: nội dung rút gọn, ảnh đại diện, người đăng và số view. (**1312414**)
+* [ ] Nhấn vào mỗi bài viết sẽ thấy chi tiết bài viết cùng đầy đủ nội dung của bài viết. (**1312414**)
+* [ ] Cho phép người dùng biết họ đang ở trang nào (sử dụng breadcrumb, highlight navigation bar,...). (**1312414**)
+* [ ] Cho phép người dùng đăng nhập, đăng xuất, đăng ký thông tin tài khoản. (**1312414**)
+* [ ] Cho phép người dùng đã đăng nhập đăng thêm bài viết mới. (**1312414**)
+* [ ] Sử dụng bcrypt hoặc devise để quản lý thông tin người dùng và băm mật khẩu. (**1312414**)
 
 Yêu cầu **không bắt buộc**:
 * [ ] Có thể xem danh sách các comment của từng bài viết.  (**MSSV**)
@@ -42,8 +42,8 @@ Yêu cầu **không bắt buộc**:
 * [ ] Gửi mail cho tác giả khi có người dùng comment vào bài viết của họ. (**MSSV**)
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:
-* [ ] Chức năng 1
-* [ ] Chức năng 2
+* [ ] Có thể xem danh sách các comment của từng bài viết. (**1312414**)
+* [ ] Cho phép người dùng đã đăng nhập comment cho bài viết. (**1312414**)
 
 ## Demo
 
